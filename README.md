@@ -10,7 +10,7 @@
 
 <h2>Script</h2>
 
-[SCRIPT SQL] (https://github.com/LucasGonRo/BancodeDados/blob/main/script%20individual.sql)
+[SCRIPT SQL](https://github.com/LucasGonRo/BancodeDados/blob/main/script%20individual.sql)
 
 
 <h1 strong>Desenvolvido em :</h1>
